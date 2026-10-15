@@ -1,0 +1,4 @@
+# Isolated workspace
+
+allowBuilds:
+  esbuild: true
