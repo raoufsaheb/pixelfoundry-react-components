@@ -128,4 +128,4 @@ pnpm build
 
 ## 📄 License
 
-MIT © [Developer](https://github.com)
+MIT © Abderraouf SAHEB
